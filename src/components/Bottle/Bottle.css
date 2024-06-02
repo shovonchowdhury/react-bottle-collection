@@ -1,0 +1,19 @@
+.bottle{
+    border: 2px solid skyblue;
+    border-radius: 8px;
+    padding-bottom: 20px;
+}
+
+.bottle img{
+    width: 200px;
+}
+
+.bottle button{
+    background-color: skyblue;
+}
+
+.bottle button:hover{
+    background-color: purple;
+    color: white;
+}
+
